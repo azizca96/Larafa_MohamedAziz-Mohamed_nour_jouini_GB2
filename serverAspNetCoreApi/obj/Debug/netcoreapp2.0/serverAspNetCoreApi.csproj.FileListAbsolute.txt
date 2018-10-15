@@ -1,0 +1,32 @@
+D:\_Work\_toView\formations\Project\serverAspNetCoreApi\bin\Debug\netcoreapp2.0\serverAspNetCoreApi.deps.json
+D:\_Work\_toView\formations\Project\serverAspNetCoreApi\bin\Debug\netcoreapp2.0\serverAspNetCoreApi.runtimeconfig.json
+D:\_Work\_toView\formations\Project\serverAspNetCoreApi\bin\Debug\netcoreapp2.0\serverAspNetCoreApi.runtimeconfig.dev.json
+D:\_Work\_toView\formations\Project\serverAspNetCoreApi\bin\Debug\netcoreapp2.0\serverAspNetCoreApi.dll
+D:\_Work\_toView\formations\Project\serverAspNetCoreApi\bin\Debug\netcoreapp2.0\serverAspNetCoreApi.pdb
+D:\_Work\_toView\formations\Project\serverAspNetCoreApi\obj\Debug\netcoreapp2.0\serverAspNetCoreApi.csproj.CoreCompileInputs.cache
+D:\_Work\_toView\formations\Project\serverAspNetCoreApi\obj\Debug\netcoreapp2.0\serverAspNetCoreApi.AssemblyInfoInputs.cache
+D:\_Work\_toView\formations\Project\serverAspNetCoreApi\obj\Debug\netcoreapp2.0\serverAspNetCoreApi.AssemblyInfo.cs
+D:\_Work\_toView\formations\Project\serverAspNetCoreApi\obj\Debug\netcoreapp2.0\serverAspNetCoreApi.dll
+D:\_Work\_toView\formations\Project\serverAspNetCoreApi\obj\Debug\netcoreapp2.0\serverAspNetCoreApi.pdb
+D:\_Work\_toView\formations\ProjectDotNet02\Projet DotNet\Project\serverAspNetCoreApi\bin\Debug\netcoreapp2.0\serverAspNetCoreApi.deps.json
+D:\_Work\_toView\formations\ProjectDotNet02\Projet DotNet\Project\serverAspNetCoreApi\bin\Debug\netcoreapp2.0\serverAspNetCoreApi.runtimeconfig.json
+D:\_Work\_toView\formations\ProjectDotNet02\Projet DotNet\Project\serverAspNetCoreApi\bin\Debug\netcoreapp2.0\serverAspNetCoreApi.runtimeconfig.dev.json
+D:\_Work\_toView\formations\ProjectDotNet02\Projet DotNet\Project\serverAspNetCoreApi\bin\Debug\netcoreapp2.0\serverAspNetCoreApi.dll
+D:\_Work\_toView\formations\ProjectDotNet02\Projet DotNet\Project\serverAspNetCoreApi\bin\Debug\netcoreapp2.0\serverAspNetCoreApi.pdb
+D:\_Work\_toView\formations\ProjectDotNet02\Projet DotNet\Project\serverAspNetCoreApi\obj\Debug\netcoreapp2.0\serverAspNetCoreApi.csproj.CoreCompileInputs.cache
+D:\_Work\_toView\formations\ProjectDotNet02\Projet DotNet\Project\serverAspNetCoreApi\obj\Debug\netcoreapp2.0\serverAspNetCoreApi.AssemblyInfoInputs.cache
+D:\_Work\_toView\formations\ProjectDotNet02\Projet DotNet\Project\serverAspNetCoreApi\obj\Debug\netcoreapp2.0\serverAspNetCoreApi.AssemblyInfo.cs
+D:\_Work\_toView\formations\ProjectDotNet02\Projet DotNet\Project\serverAspNetCoreApi\obj\Debug\netcoreapp2.0\serverAspNetCoreApi.dll
+D:\_Work\_toView\formations\ProjectDotNet02\Projet DotNet\Project\serverAspNetCoreApi\obj\Debug\netcoreapp2.0\serverAspNetCoreApi.pdb
+D:\_Work\_toView\formations\ProjectDotNet02\Projet DotNet\Project\serverAspNetCoreApi\obj\Debug\netcoreapp2.0\serverAspNetCoreApi.csprojResolveAssemblyReference.cache
+C:\Projects\ProjectAspNetCore\serverAspNetCoreApi\obj\Debug\netcoreapp2.0\serverAspNetCoreApi.csprojResolveAssemblyReference.cache
+C:\Projects\ProjectAspNetCore\serverAspNetCoreApi\obj\Debug\netcoreapp2.0\serverAspNetCoreApi.csproj.CoreCompileInputs.cache
+C:\Projects\ProjectAspNetCore\serverAspNetCoreApi\obj\Debug\netcoreapp2.0\serverAspNetCoreApi.AssemblyInfoInputs.cache
+C:\Projects\ProjectAspNetCore\serverAspNetCoreApi\obj\Debug\netcoreapp2.0\serverAspNetCoreApi.AssemblyInfo.cs
+C:\Projects\ProjectAspNetCore\serverAspNetCoreApi\obj\Debug\netcoreapp2.0\serverAspNetCoreApi.dll
+C:\Projects\ProjectAspNetCore\serverAspNetCoreApi\obj\Debug\netcoreapp2.0\serverAspNetCoreApi.pdb
+C:\Projects\ProjectAspNetCore\serverAspNetCoreApi\bin\Debug\netcoreapp2.0\serverAspNetCoreApi.deps.json
+C:\Projects\ProjectAspNetCore\serverAspNetCoreApi\bin\Debug\netcoreapp2.0\serverAspNetCoreApi.runtimeconfig.json
+C:\Projects\ProjectAspNetCore\serverAspNetCoreApi\bin\Debug\netcoreapp2.0\serverAspNetCoreApi.runtimeconfig.dev.json
+C:\Projects\ProjectAspNetCore\serverAspNetCoreApi\bin\Debug\netcoreapp2.0\serverAspNetCoreApi.dll
+C:\Projects\ProjectAspNetCore\serverAspNetCoreApi\bin\Debug\netcoreapp2.0\serverAspNetCoreApi.pdb

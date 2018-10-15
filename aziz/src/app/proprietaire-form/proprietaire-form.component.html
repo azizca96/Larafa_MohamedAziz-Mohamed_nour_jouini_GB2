@@ -1,0 +1,58 @@
+<h1>New Proprietaire</h1>
+<p>
+  {{proprietaire | json }}
+</p>
+<form #f="ngForm" (ngSubmit)="submit()" novalidate >
+  <div class="form-group">
+    <label for="Id">Id</label>
+    <select id="Id" class="form-control" (change)="onIdChange()" [(ngModel)]="proprietaire.id" name="id"  >
+      <option value=""></option>
+      <option *ngFor="let p of proprietaires" value="{{p.id}}">{{p.nom}}</option>
+    </select>
+  </div>
+
+  <div class="form-group">
+      <label for="contactName">Name</label>
+        <input id="contactName" type="text" class="form-control" [(ngModel)]="proprietaire.nom" name="nom" required #nom="ngModel">
+           <div class="alert alert-danger" *ngIf="nom.touched && !nom.valid">
+              Please specify the name
+            </div>
+  </div>
+  <div class="form-group">
+        <label for="contactEmail">Email</label>
+           <input id="contactEmail" type="text" class="form-control" [(ngModel)]="proprietaire.email" name="email" required #email="ngModel">
+             <div class="alert alert-danger" *ngIf="email.touched && !email.valid">
+                Please specify the email
+             </div>
+ </div>
+ <div class="form-group">
+          <label for="contactPhone">Login</label>
+             <input id="contactPhone" type="text" class="form-control" [(ngModel)]="proprietaire.login" name="login" required #login="ngModel">
+                <div class="alert alert-danger" *ngIf="login.touched && !login.valid">
+                  Please specify the login
+                </div>
+</div>
+<div class="form-group">
+  <label for="contactPhone">Password</label>
+     <input id="contactPhone" type="text" class="form-control" [(ngModel)]="proprietaire.password" name="password" required #password="ngModel">
+        <div class="alert alert-danger" *ngIf="password.touched && !password.valid">
+          Please specify the password
+        </div>
+</div>
+<div class="form-group">
+           <label for="contactEmail">Telepone Fixe</label>
+             <input id="contactEmail" type="text" class="form-control" [(ngModel)]="proprietaire.telephoneFixe" name="telephoneFixe" required #telephoneFixe="ngModel">
+                  <div class="alert alert-danger" *ngIf="telephoneFixe.touched && !telephoneFixe.valid">
+                    Please specify the telephone fixe
+                  </div>
+ </div>
+ <div class="form-group">
+            <label for="contactEmail">Telephone Portable</label>
+               <input id="contactEmail" type="text" class="form-control" [(ngModel)]="proprietaire.telephonePortable" name="telephonePortable" required #telephonePortable="ngModel">
+                  <div class="alert alert-danger" *ngIf="telephonePortable.touched && !telephonePortable.valid">
+                    Please specify the telephone portable
+                  </div>
+ </div>
+      <button  class="btn btn-primary" >Save</button>
+      <button *ngIf="proprietaire.id"   class="btn btn-danger" type="button" (click)="delete()" >Delete</button>
+</form>
